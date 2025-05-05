@@ -12,4 +12,3 @@ A Python app that fetches your recent Spotify listening data using the Spotipy A
 ## Usage
 1. Clone this repo
 2. Create a `.env` file with your Spotify credentials:
-
